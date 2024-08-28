@@ -6,7 +6,7 @@ import pandas as pd
 import time
 def get_signal_strength(rssi):
     if rssi >= -30:
-        return "kha hdak"
+        return "wonderful"
     elif rssi >= -40:
         return "Amazing"
     elif rssi >= -50:
